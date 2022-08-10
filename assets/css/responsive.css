@@ -1,0 +1,6 @@
+/* Mobile */
+@media (max-width: 46.2667em){
+    .s-col-full{
+        width: 100% !important;
+    }
+}
